@@ -1,0 +1,14 @@
+../Core/Src/mpu6050.c:33:26:write_reg	1
+../Core/Src/mpu6050.c:39:26:read_regs	1
+../Core/Src/mpu6050.c:47:16:to_i16	1
+../Core/Src/mpu6050.c:52:13:apply_accel	1
+../Core/Src/mpu6050.c:63:13:apply_gyro	1
+../Core/Src/mpu6050.c:77:13:accel_to_angles	1
+../Core/Src/mpu6050.c:87:6:Kalman_Init	1
+../Core/Src/mpu6050.c:99:6:Kalman_setAngle	1
+../Core/Src/mpu6050.c:104:7:Kalman_getAngle	1
+../Core/Src/mpu6050.c:142:19:MPU6050_Init	9
+../Core/Src/mpu6050.c:198:19:MPU6050_Read_Accel	2
+../Core/Src/mpu6050.c:208:19:MPU6050_Read_Gyro	2
+../Core/Src/mpu6050.c:218:19:MPU6050_Read_All	2
+../Core/Src/mpu6050.c:231:6:MPU6050_Update_Angle	7
